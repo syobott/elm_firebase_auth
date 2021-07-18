@@ -936,3 +936,4 @@ GitHub Pages doesn’t support routers that use the HTML5 `pushState` history AP
 ## IDE setup for Hot Module Replacement
 
 Remember to disable [safe write](https://webpack.js.org/guides/development/#adjusting-your-text-editor) if you are using VIM or IntelliJ IDE, such as WebStorm.
+# firebase
